@@ -12,6 +12,9 @@
           <strong>Team:</strong> 각자의 새벽<br>
           🥉 <strong>Ranked 43rd out of 740 teams</strong> in the <strong> product defect determination</strong> project.
         </p>
+        <p>
+          <a href="/lg_aimers.pdf" target="_blank"><b>View Certificate</b></a>
+        </p>
       </td>
     </tr>
   </tbody>
