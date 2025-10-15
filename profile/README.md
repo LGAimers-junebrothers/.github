@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td align="center" width="200">
-        <img src="/lg_aimers.png" alt="LG Aimers 5th Class" width="100%"/>
+        <img src="/lg_aimers_report.png" alt="LG Aimers 5th Class" width="100%"/>
       </td>
       <td>
         <h3>LG Aimers 5th Class</h3>
